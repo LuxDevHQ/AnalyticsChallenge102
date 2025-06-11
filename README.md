@@ -16,6 +16,7 @@ Since the top 3 cars have the **same highest price**, that price should **only c
 
 ✅ **Task 2:**  
 Write an SQL query to find the model(s) that appear more than once in the dataset.
+
 ---  
 
 
