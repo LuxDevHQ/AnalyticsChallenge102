@@ -4,10 +4,19 @@ You are working as a data analyst at **Luxury Auto Kenya**, a car dealership com
 
 ---
 
-✅ **Task:**  
+✅ **Task 1:**  
 Write an SQL query to retrieve the **second highest distinct car price** from the `inventory.cars` table.
 
 ---
 
 ⚠️ **Note:**  
 Since the top 3 cars have the **same highest price**, that price should **only count once**, and your query must return the **next highest unique price** (i.e., the **second distinct highest** price in the list).
+
+---
+
+✅ **Task 2:**  
+Write an SQL query to find the model(s) that appear more than once in the dataset.
+---  
+
+
+
